@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-24T02:20:25.137Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="0OTwAFGGch6zXvKQj8KT" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-24T02:29:35.378Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="gnGU_5U9JxwSWOF0CG5h" version="20.0.3" type="github">
   <diagram id="6HKOfY0stvO4wBqtCl6a" name="Page-1">
     <mxGraphModel dx="2249" dy="1969" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -149,6 +149,16 @@
         <mxCell id="wt1IpO2e26Ng2IFVDibu-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jumpStyle=gap;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wt1IpO2e26Ng2IFVDibu-35" target="wt1IpO2e26Ng2IFVDibu-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="wt1IpO2e26Ng2IFVDibu-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jumpStyle=gap;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wt1IpO2e26Ng2IFVDibu-35" target="wt1IpO2e26Ng2IFVDibu-82">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="690" y="60" />
+              <mxPoint x="690" y="180" />
+              <mxPoint x="720" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="wt1IpO2e26Ng2IFVDibu-35" value="COTIZACIONES" style="whiteSpace=wrap;html=1;rounded=1;arcSize=20;" vertex="1" parent="1">
           <mxGeometry x="770" y="30" width="120" height="60" as="geometry" />
         </mxCell>
@@ -296,6 +306,15 @@
         </mxCell>
         <mxCell id="wt1IpO2e26Ng2IFVDibu-81" value="FECHA Y HORA DE ENTREGA" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="-70" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wt1IpO2e26Ng2IFVDibu-82" value="CONVERSIONES" style="ellipse;whiteSpace=wrap;html=1;rounded=1;arcSize=20;" vertex="1" parent="1">
+          <mxGeometry x="660" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wt1IpO2e26Ng2IFVDibu-84" value="" style="endArrow=classic;html=1;rounded=1;jumpStyle=gap;exitX=0.442;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wt1IpO2e26Ng2IFVDibu-82" target="wt1IpO2e26Ng2IFVDibu-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="270" as="sourcePoint" />
+            <mxPoint x="700" y="330" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
